@@ -2,8 +2,6 @@ layout: page
 title: "Subprocessors"
 permalink: /subprocessors
 
-# Subprocessors
-
 We use third party subprocessors, such as cloud computing providers, to run Walla. The third parties (aka "subprocessors") that we share data with at all are secure and we only share the minimum required. These subprocessors are all headquartered in the United States and subject to local privacy laws.
 
 ### Information we may collect

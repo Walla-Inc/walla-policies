@@ -2,8 +2,6 @@ layout: page
 title: "Data Processing Addendum"
 permalink: /dpa
 
-# Data Processing Addendum
-
 **Last updated May 6, 2022**
 
 This Data Processing Addendum (“ DPA ”) is part of the Terms of Service and Privacy Policy,

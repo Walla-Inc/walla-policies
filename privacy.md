@@ -2,8 +2,6 @@ layout: page
 title: "Privacy policy"
 permalink: /privacy
 
-# Privacy policy
-
 **Last updated May 6, 2022**
 
 Walla Software, Inc. ("Company" or "We" or "Us" or "Our" or “Walla”) respects your privacy and we are committed to protecting it through our compliance with this policy. 
