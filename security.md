@@ -1,4 +1,8 @@
-# Walla Security Overview
+layout: page
+title: "Security Overview"
+permalink: /security
+
+# Security Overview
 
 Keeping our customers' data protected at all times is our highest priority. This security overview provides a high-level overview of the security practices put in place to achieve that objective.
 

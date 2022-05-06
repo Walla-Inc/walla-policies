@@ -1,3 +1,7 @@
+layout: page
+title: "Data Processing Addendum"
+permalink: /dpa
+
 # Data Processing Addendum
 
 **Last updated May 6, 2022**
